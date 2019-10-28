@@ -1,0 +1,22 @@
+#navbar {
+    background-color:#e71b3d;
+    color:white;
+}
+navbar navbar-expand-lg navbar-light bg-light #navbar{
+    background-color:#e71b3d;
+    color:white;
+}
+
+#topbutton {
+    background-color:white;
+    color:#e71b3d;
+    border:transparent
+    
+}
+#anav {
+    color: white;
+}
+.container{
+    display: flex;
+    align-items: left;
+}
