@@ -16,7 +16,6 @@ navbar navbar-expand-lg navbar-light bg-light #navbar{
 #anav {
     color: white;
 }
-.container{
-    display: flex;
-    align-items: left;
+#colleft {
+    width: 50%;
 }
